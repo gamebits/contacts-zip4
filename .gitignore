@@ -1,0 +1,8 @@
+.env
+.zip4_cache.json
+
+*.csv
+*.tsv
+*.txt
+*.xls
+*.xlsx
